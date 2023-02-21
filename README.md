@@ -1,2 +1,2 @@
-# Geeks--for--Geeks-
+# [GEEKS--FOR--GEEKS]
 Data Structure And algorithm 
